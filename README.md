@@ -23,6 +23,7 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 * [Less CSS Mess (English) | Thomas Byttebier | Article](http://thomasbyttebier.be/blog/less-css-mess)
 * [Manage Large Scale Web projects - ITCSS Architecture (English) | Harry Roberts](http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731) - [@itcss_io](https://twitter.com/itcss_io)
 * [CSS Style guide by AirBnb (English) | AirBnb](https://github.com/airbnb/css)
+* [Quick Research on ITCSS (English) | Ryo Ikarashi](https://github.com/RyoIkarashi/ITCSS)
 
 
 ## 3 JavaScript
@@ -43,5 +44,5 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 
 ## 5 Boilerplate
 
-* [ITCSS Less Boilerplate](https://github.com/davidpelayo/itcss-less-boilerplate)
+* [ITCSS LESS Boilerplate](https://github.com/davidpelayo/itcss-less-boilerplate)
 * [ITCSS SASS Boilerplate](https://github.com/gpmd/itcss-boilerplate)
