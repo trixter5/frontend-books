@@ -29,6 +29,7 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 * [You Don't Know JS (English) | Collaborative Github Repo | Amazing first-steps book with Javascript](https://github.com/getify/You-Dont-Know-JS/)
 * [Mastering Javascript Design Patterns (English) | Good to have a better overview of existing Design Patterns](https://www.amazon.com/Mastering-JavaScript-Design-Patterns-Simon/dp/1783987987)
 * [Javascript Patterns (English) | Collaborative Github Repo](https://github.com/shichuan/javascript-patterns)
+* [Javascript Application Design (English) | Nicolas Bevacqua](https://www.manning.com/books/javascript-application-design)
 * [Maintainable Javascript (English) | Nicholas C. Zakas | O'Reilly](http://shop.oreilly.com/product/0636920025245.do)
 
 
