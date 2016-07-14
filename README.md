@@ -8,9 +8,8 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 
 > Note: This is just an initial personal preference recommendation.
 
-### 1 HTML
 
-Recommendations are not only paper books but also online resources from many great repositories like the Mozilla community for developers.
+### 1 HTML
 
 * [MDN-HTML (English)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [HTML Book (English) - O'Really Media](http://oreillymedia.github.io/HTMLBook/)
@@ -22,6 +21,7 @@ Recommendations are not only paper books but also online resources from many gre
 * [CSS Exhaustive Reference (English)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [CSS: The Definitive Guide (English) | Eric A. Meyer | outside Definitive Guide, document choice | Third Edition](http://meyerweb.com/eric/books/css-tdg/)
 * [CSS Zen Garden (English) | Dave Shea, Molly E. Holzschlag | One of the most classic CSS](https://www.amazon.com/Zen-CSS-Design-Visual-Enlightenment/dp/0321303474?ie=UTF8&redirect=true&tag=mezzoblue-20)
+
 
 #### 3 JavaScript
 
