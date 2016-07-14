@@ -18,7 +18,7 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 ## 2 CSS
 
 * [CSS Exhaustive Reference (English)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [CSS: The Definitive Guide (English) | Eric A. Meyer | Third Edition](http://meyerweb.com/eric/books/css-tdg/)
+* [CSS The Definitive Guide (English) | Eric A. Meyer | Third Edition](http://meyerweb.com/eric/books/css-tdg/)
 * [CSS Zen Garden (English) | Dave Shea, Molly E. Holzschlag | One of the most classic CSS books](https://www.amazon.com/Zen-CSS-Design-Visual-Enlightenment/dp/0321303474?ie=UTF8&redirect=true&tag=mezzoblue-20)
 * [The future of loading CSS (English) | Jake Archibald](https://jakearchibald.com/2016/link-in-body/)
 * [Less CSS Mess (English) | Thomas Byttebier | Article](http://thomasbyttebier.be/blog/less-css-mess)
