@@ -1,5 +1,11 @@
 # Frontend Books
 
+Author: [David Pelayo | @ddpelayo](https://twitter.com/ddpelayo)
+
+Collaborators:
+* [Lodgify | Vacation Rental SaaS & Website Builder](http://lodgify.com)
+* [Dmitry Zaets | Lodgify](http://dmitry.js.org/)
+
 A repo that aims to collect Frontend Books and resources for learning some skills needed on the web development. It's recommended to:
 
 
@@ -29,6 +35,8 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 
 ## 3 JavaScript
 
+* [Basics of Programming with JS (English) | Pluralsight](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
+* [Javascript Design Patterns (English) | Pluralsight](https://app.pluralsight.com/library/courses/javascript-design-patterns/table-of-contents)
 * [Javascript: The Definitive Guide (English) | David Flanagan | 6th Edition | O'Reilly](http://shop.oreilly.com/product/9780596805531.do)
 * [High Performance Javascript | Nicholas C. Zakas |  O'Reilly / Yahoo Press](http://shop.oreilly.com/product/9780596802806.do)
 * [You Don't Know JS (English) | Collaborative Github Repo | Amazing first-steps book with Javascript](https://github.com/getify/You-Dont-Know-JS/)
@@ -37,6 +45,7 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 * [Javascript Application Design (English) | Nicolas Bevacqua](https://www.manning.com/books/javascript-application-design)
 * [Maintainable Javascript (English) | Nicholas C. Zakas | O'Reilly](http://shop.oreilly.com/product/0636920025245.do)
 * [Javascript Style guide by AirBnb (English) | AirBnb](https://github.com/airbnb/javascript)
+* [Advanced Javascript (English)  | Pluralsight](https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents)
 
 
 ## 4 Real World Examples
