@@ -28,7 +28,7 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 
 
 ## 3 JavaScript
-
+* [You Dont Know JS | Kyle Simpson aka getify](https://github.com/getify/You-Dont-Know-JS)
 * [Javascript: The Definitive Guide (English) | David Flanagan | 6th Edition | O'Reilly](http://shop.oreilly.com/product/9780596805531.do)
 * [High Performance Javascript | Nicholas C. Zakas |  O'Reilly / Yahoo Press](http://shop.oreilly.com/product/9780596802806.do)
 * [You Don't Know JS (English) | Collaborative Github Repo | Amazing first-steps book with Javascript](https://github.com/getify/You-Dont-Know-JS/)
