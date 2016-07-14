@@ -6,8 +6,6 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 1. Read them, and think if it's worth to recommend to anyone.
 2. Add a resource here if you feel it's good or heard people saying so.
 
-> Note: This is just an initial personal preference recommendation.
-
 
 ## 1 HTML
 
