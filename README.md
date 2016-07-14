@@ -33,6 +33,7 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 * [Javascript Patterns (English) | Collaborative Github Repo](https://github.com/shichuan/javascript-patterns)
 * [Javascript Application Design (English) | Nicolas Bevacqua](https://www.manning.com/books/javascript-application-design)
 * [Maintainable Javascript (English) | Nicholas C. Zakas | O'Reilly](http://shop.oreilly.com/product/0636920025245.do)
+* [Javascript Styleguide by AirBnb (English) | AirBnb](https://github.com/airbnb/javascript)
 
 
 ## 4 Real World Examples
