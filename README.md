@@ -12,7 +12,8 @@ A repo that aims to collect Frontend Books and resources for learning some skill
 * [MDN-HTML (English)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [HTML Book (English) - O'Reilly Media](http://oreillymedia.github.io/HTMLBook/)
 * [HTML5 W3C (English)](https://www.w3.org/TR/html5/)
-
+* [HTML5 Pocket Reference (English) | Jennifer Niederst Robbins](https://www.amazon.com/HTML5-Pocket-Reference-OReilly/dp/1449363350)
+* [Responsive Web Design with HTML5 and CSS3 (English) | Ben Frain | 2nd Edition](https://www.amazon.com/Responsive-Web-Design-HTML5-CSS3/dp/1784398934)
 
 ## 2 CSS
 
